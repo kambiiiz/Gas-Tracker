@@ -1,5 +1,4 @@
-# Ethereum Gas Tracker
-
+#Ethereum Gas Tracker
 Track and predict gas prices.
 
 ## Features
