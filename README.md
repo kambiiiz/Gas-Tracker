@@ -5,11 +5,8 @@ Track and predict gas prices.
 - Gas prediction model
 - API endpoint
 - Telegram bot
-
 # Quiz App
-
 Create and take quizzes online.
-
 ## Features
 - Create quizzes
 - Multiple choice
