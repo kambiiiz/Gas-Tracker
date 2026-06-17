@@ -13,7 +13,6 @@ Create and take quizzes online.
 - Timed quizzes
 - Leaderboard
 - Results analytics
-
 ## Tech Stack
 - React
 - Node.js
