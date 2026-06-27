@@ -18,6 +18,5 @@ Create and take quizzes online.
 - Node.js
 - Socket.io
 - MongoDB
-
 ## License
 MIT
