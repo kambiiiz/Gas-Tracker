@@ -6,7 +6,7 @@ Track and predict gas prices.
 - API endpoint
 - Telegram bot
 # Quiz App
-Create and take quizzes online.
+ take quizzes online.
 ## Features
 - Create quizzes
 - Multiple choice
