@@ -8,7 +8,7 @@ Track and predict gas prices.
 # Quiz App
  take quizzes online.
 ## Features
-- Create quizzes
+-  quizzes
 - Multiple choice
 - Timed quizzes
 - Leaderboard
