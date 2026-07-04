@@ -18,5 +18,5 @@ Track and predict gas prices.
 - Node.js
 - Socket.io
 - MongoDB
-## License
+## 
 MIT
