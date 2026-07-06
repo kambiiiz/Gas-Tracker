@@ -17,6 +17,5 @@ Track and predict gas prices.
 - React
 - Node.js
 - Socket.io
-- 
 ## 
 MIT
