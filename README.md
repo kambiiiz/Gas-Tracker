@@ -12,6 +12,7 @@ Track and predict gas prices.
 - Timed quizzes
 - Leaderboard
 -Results analytics
+
 ## Tech Stack
 - React
 - Node.js
